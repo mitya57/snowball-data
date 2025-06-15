@@ -161,3 +161,11 @@ lat
 latom
 latami
 latach
+miejsce
+miejsca
+miejscu
+miejscem
+miejsc
+miejscom
+miejscami
+miejscach
